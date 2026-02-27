@@ -7,7 +7,7 @@
 
 A web-based chat and group messaging application built with core PHP. This project features user authentication, dynamic group chats, and an administrative dashboard to manage users and conversations. 
 
-*Originally developed as a Midterm Project (UTS).*
+*Originally developed as a Final Project for Full Stack Programming class.*
 
 ## ✨ Features
 

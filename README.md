@@ -9,14 +9,14 @@ A web-based chat and group messaging application built with core PHP. This proje
 
 *Originally developed as a Final Project for Full Stack Programming class.*
 
-## ✨ Features
+## Features
 
-* **🔐 User Authentication:** Secure login, registration, and password management (`change_password.php`).
-* **👥 Group Chats:** Users can view group details and participate in group messaging (`detail_grup.php`, `chat.php`).
-* **⚙️ Admin Panel:** Dedicated administrator dashboard for managing the platform (`/admin`).
-* **🧩 Modular Structure:** Object-Oriented/Modular design using dedicated classes and configuration files (`/class`, `/config`).
+* **User Authentication:** Secure login, registration, and password management (`change_password.php`).
+* **Group Chats:** Users can view group details and participate in group messaging (`detail_grup.php`, `chat.php`).
+* **Admin Panel:** Dedicated administrator dashboard for managing the platform (`/admin`).
+* **Modular Structure:** Object-Oriented/Modular design using dedicated classes and configuration files (`/class`, `/config`).
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 ├── admin/                 # Administrator dashboard and management scripts
@@ -30,3 +30,13 @@ A web-based chat and group messaging application built with core PHP. This proje
 ├── detail_grup.php        # Group information and member list
 ├── index.php              # Landing page / Home
 └── login.php              # User authentication gateway
+```
+
+## Development Team
+
+| Name | GitHub Profile |
+| --- | --- |
+| Darren Stanford Soputra | [@Beyolandr7](https://github.com/Beyolandr7) |
+| Alexander F. J. Lapod | [@joynard](https://github.com/joynard) |
+| Fransiskus Hendra Roni | [@dFaery](https://github.com/dFaery) |
+
